@@ -1,0 +1,74 @@
+#bod
+{
+    background-color: lightblue;
+    margin: 0%;
+}
+
+#list
+{
+    list-style-type: none;
+    padding: 30px;
+    font-size: 30px;
+    
+}
+#list > li
+{
+    text-align: center;
+    background-color:rgb(231, 231, 168);
+   padding: 20px;
+    margin: 20px;
+}
+#aks > input
+{
+    margin: auto;
+    display: block;
+    padding: 10px;
+    width: 300px;
+    box-shadow: 10px;
+}
+#but
+{
+    box-shadow: yellow;
+    border-radius: 10px;
+    background-color:white;
+    padding: 10px;
+    width: 100px;
+    margin: auto;
+    position: absolute;
+    left: 63%;
+    top: 60px;
+}
+
+#rep
+{
+    box-shadow: yellow;
+    border-radius: 10px;
+    background-color: white;
+    padding: 10px;
+    width: 100px;
+    margin: auto;
+    position: absolute;
+    left: 30%;
+    top: 60px;
+}
+#upd
+{
+    box-shadow: yellow;
+    border-radius: 10px;
+    background-color: white;
+    padding: 10px;
+    width: 100px;
+    margin: auto;
+    position: absolute;
+    left: 21%;
+    top: 60px;
+}
+#textt
+{
+    position: relative;
+    top: 60px;
+    left:10px;
+    box-shadow: 10px;
+    background-color:rgb(245, 212, 217);
+
+}
